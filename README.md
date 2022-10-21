@@ -2,7 +2,7 @@
 
 ## Atividade prática da 3 semana
 
-Nesta nova versão do site de portfólio este novo site tem uma peculiaridade interessante, 
+Nesta nova versão do site de portfólio, este novo site tem uma peculiaridade interessante, 
 que é o fato de ele ser composto por uma única página. Esse estilo de site, chamado de 
 single page, tornou-se muito popular nos últimos anos. Ele é particularmente interessante 
 quando você deseja guiar o foco do usuário gradativamente para uma ação final, como a 
