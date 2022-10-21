@@ -1,6 +1,6 @@
 # IFES
 
-## Atividade prática da 1 semana
+## Atividade prática da 3 semana
 
 Nesta nova versão do site de portfólio este novo site tem uma peculiaridade interessante, 
 que é o fato de ele ser composto por uma única página. Esse estilo de site, chamado de 
