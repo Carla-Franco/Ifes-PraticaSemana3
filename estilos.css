@@ -1,0 +1,451 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&display=swap');
+
+html {
+    background-color: #ddd;
+}
+
+body {
+    width: 80vw;
+    margin-left: 10vw;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: "Montserrat";
+}
+
+#perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 1vw;
+    margin-bottom: 0;
+}
+
+#midiasociais {
+    width: 25px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 1vw;
+}
+
+.ladoesquerdo {
+    width: 18vw;
+    height: 100vh !important;
+    background-color: white;
+    position: fixed;   
+}
+
+p > a {
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 1vw;   
+    color: gray;
+    margin-top: 5vw;
+}
+
+#imagens > img {
+    width: 1.5vw;
+    margin-left: 1vw;
+}
+
+.midiasociais {
+    float: left;
+    width: 12%;
+    margin-left: 0.7vw;
+    margin-top: 1.7vw;  
+}
+
+.ladodireito {
+    width: 62vw;
+    margin-left: 18vw;
+    padding-left: 2vw;
+    padding-top: 0.5vw;
+}
+
+.cabecalho {
+    text-decoration: normal;
+    line-height: 50px;
+}
+
+h1 > strong {
+    font-size: 45px;
+}
+
+hr {
+    height: 10px;
+    background-color: lightgray;
+    border: 0 solid;
+}
+
+.hero {
+    width: 62vh;
+    height: 35vh;
+}
+
+#heroesquerdo {
+    background-color: white;
+    width: 47%;
+    height: 35vh;
+}
+
+#heroesquerdo > h2 {
+    font-size: 25px;
+    padding: 2.5vw;
+}
+
+button {
+    background-color: #333;
+    color: lightgray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 16px;
+    margin-left: 5vh;
+    margin-top: -5vh;
+}
+
+button:hover {
+    background-color: white;
+    color: gray;
+    border: 1px solid gray;
+}
+
+#herodireito > img {
+    height: 35vh;
+    position: absolute;
+    left: 52%;
+    top: 50.2vh;
+    width: 41%;  
+}
+
+#habilidades {
+    margin-top: 2.5vw;
+}
+
+h4 {
+    font-weight: normal;
+    margin-bottom: 0;  
+    margin-top: 2.5vw; 
+}
+
+.pai {
+    width: 62vw;
+    height: 3.5vw;
+    background-color: lightgray;
+}
+
+.filho1 {
+    width: 62vw;
+    height: 3.5vw;
+    background-color: #333;
+    width: 50%;
+}
+
+.filho1 > p {
+    color: lightgray;
+    text-align: center;
+    padding: 1vw;   
+}
+
+.filho2 {
+    width: 62vw;
+    height: 3.5vw;
+    background-color: #333;
+    width: 30%;
+}
+
+.filho2 > p {
+    color: lightgray;
+    text-align: center;
+    padding: 1vw;
+}
+
+.filho3 {
+    width: 62vw;
+    height: 3.5vw;
+    background-color: #333;
+    width: 50%;
+    margin-bottom: 3.5vw;
+}
+
+.filho3 > p {
+    color: lightgray;
+    text-align: center;
+    padding: 1vw;
+}
+
+#formacao {
+    margin-top: 2.5vw;
+}
+
+.filho4 {
+    width: 62vw;
+    height: 3.5vw;
+    background-color: #333;
+    width: 100%;
+    margin-bottom: 3.5vw;
+}
+
+.filho4 > p {
+    color: lightgray;
+    text-align: center;
+    padding: 1vw;
+}
+
+.filho5 {
+    width: 62vw;
+    height: 3.5vw;
+    background-color: #333;
+    width: 45%;
+    margin-bottom: 3.5vw;
+}
+
+.filho5 > p {
+    color: lightgray;
+    text-align: center;
+    padding: 1vw;
+}
+
+#projetos {
+    margin-top: 2.5vw;
+}
+
+#idiomas {
+    margin-top: 2.5vw;
+}
+
+div.projetostotais {
+    width: 62vw;
+    height: 39vw;
+    
+    
+}
+
+#card > img {
+    width: 20vw;
+}
+
+#card > h3 {
+    background-color: white;
+    width: 19.2vw;
+    margin-top: -1.5px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    
+}
+
+#card > p {
+    width: 19.2vw;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: -20px;
+    padding-bottom: 20px;
+}
+
+#card1 > img {
+    width: 20vw;
+    position: absolute;
+    left: 51vw;
+    top: 159.8vw;   
+}
+
+#card1 > h3 {
+    background-color: white;
+    width: 19.2vw;
+    margin-top: -1px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    position: absolute;
+    left: 51vw;
+    top: 174.9vw;
+}
+
+#card1 > p {
+    width: 19.2vw;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: -20px;
+    padding-bottom: 38.8px;
+    position: absolute;
+    left: 51vw;
+    top: 181.4vw;
+}
+
+#card2 > img {
+    width: 20vw;
+    position: absolute;
+    left: 72vw;
+    top: 159.8vw;
+}
+
+#card2 > h3 {
+    background-color: white;
+    width: 19.2vw;
+    margin-top: -1px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    position: absolute;
+    left: 72vw;
+    top: 175vw;
+}
+
+#card2 > p {
+    width: 19.2vw;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: -20px;
+    padding-bottom: 39px;
+    position: absolute;
+    left: 72vw;
+    top: 181.4vw;
+}
+
+table {
+    text-align: center;
+    width: 62vw;
+    height: 35vw;   
+    border: 2px solid lightgray;
+    border-collapse: collapse;
+}
+
+#destaquetopo {
+    background-color: rgb(137, 155, 137);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 24px;
+}
+
+#destaque {
+    background-color: rgb(188, 205, 188);
+}
+
+#topo {
+    background-color: lightgray;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+td {
+    border: 2px solid lightgray;
+    border-collapse: collapse;
+    width: 20.67vw;
+    padding: 5px;
+    margin: 0;   
+}
+
+.buttontable {
+    height: 7vw;
+}
+
+.buttontable > button {
+    background-color: #333;
+    color: lightgray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-top: 5px;  
+}
+
+#contato {
+    margin-top: 30px;
+}
+
+#tablecontato {
+    width: 58vw;
+    height: 11vw;
+    background-color: gray;
+    border: 1px solid lightgray;
+    position: absolute;
+    left: 32vw;
+    top: 254vw;   
+}
+
+#colcontato > img {
+    width: 8vh;
+    padding: 5px;
+    
+}
+
+#colcontato > a {
+    text-decoration: none;  
+    color: white;
+}
+
+#colcontato {
+    color: white;
+    width: 19vw;
+}
+
+.contatodestaque {
+    background-color: rgb(137, 155, 137);
+}
+
+#divcontato {
+    background-color: gray;
+    width: 62vw;
+    height: 74vw;
+}
+
+.formcontato {
+    padding-top: 14vw;
+    padding-left: 2vw;
+    color: white;
+}
+
+input {
+    width: 54.5vw;
+    height: 5vw;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+select {
+    width: 58vw;
+    height: 5vw;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+textarea {
+    width: 54.7vw;
+    height: 12vw;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+p > #botao {
+    background-color: #333;
+    color: lightgray;
+    width: 10vw; 
+    font-size: 19px;
+    margin-top: 20px;
+}
+
+.rodape {
+    background-color: #333;
+    color: lightgray;
+    margin: 0;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+
+
+
